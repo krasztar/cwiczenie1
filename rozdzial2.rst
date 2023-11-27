@@ -10,7 +10,9 @@ Oklahoma City Thunder zespół NBA powstały z przeniesienia zespołu Seattle Su
 
 Jeszcze jako SuperSonics, zespół zakwalifikował się do playoffów 22 razy, sześć razy wygrali swoją dywizję oraz raz wygrali mistrzostwo NBA w 1979. 
 Od czasów przenosin do Oklahomy, do playoffów zakwalifikowali trzy razy (2010–2012), dwukrotnie wygrali dywizję (sezony 2010/2011, 2011/2012). 
-Największym dotychczasowym sukcesem Thunder było dojście do finału NBA, gdzie jednak przegrali z Miami Heat 4–1[1].
+Największym dotychczasowym sukcesem Thunder było dojście do finału NBA, gdzie jednak przegrali z Miami Heat 4–1.
+
+Nazwa Thunder (Grzmot) została wybrana z innych propozycji: Bison (Bizony), Energy (Energia), Wind (Wiatr), Marshalls (Oficerowie) i Barons (Baronowie). Zawodnicy i prawa do wyboru w drafcie zostały przejęte z klubu z Seattle.
 
 
 .. figure:: ./obrazki/okc.jpg
